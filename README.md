@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+## To access the portal hit [here](https://student-task-submission.herokuapp.com/).
+
+## The login credentials for admin is username/email : firstadmin@gmail.com and the password : Adminaccess1
+## The login credentials for student is username/email : firstuser@gmail.com and the password : Useraccess1
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
